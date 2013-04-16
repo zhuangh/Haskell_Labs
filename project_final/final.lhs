@@ -1113,15 +1113,4 @@ Test cases:
  
 >
 
-Coded By
-Hao Zhuang, Ph.D Student, 
-A53029734
-Computer Science Department, 
-University of California, San Diego
-
-For the Final Exam of Winter 2013, 
-CSE 230 - Principles of Programming Languages, 
-Instructor Prof. Ranjit Jhala
-
-
 
