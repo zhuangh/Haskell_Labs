@@ -1,10 +1,6 @@
 !!! For your own good, do not read my crappy code when you are taking this courses. 
 
-
----
-title: Homework #1, Due Friday, January 20th
----
-
+ 
 Preliminaries
 -------------
 
