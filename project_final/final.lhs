@@ -1,5 +1,4 @@
 !!! For your own good, do not read my crappy code when you are taking this courses. 
-
  
 
 > {-# LANGUAGE TypeSynonymInstances, FlexibleContexts, OverlappingInstances, FlexibleInstances #-}
@@ -28,26 +27,7 @@
 
 
 
-
-Submission Instructions
-=======================
-
-To complete this homework, download [this file as plain text](final.lhs) and
-answer each question, filling in code where
-noted (some questions ask for explanations in addition to or instead
-of code).
-
-**Your code must typecheck against the given type signatures.**
-
-Feel free to add your own tests to this file to exercise the functions
-you write.  Submit your homework by sending this file, filled in
-appropriately, to `cse230@goto.ucsd.edu` with the subject "Final"; you
-will receive a confirmation email after submitting.  Please note that
-this address is unmonitored; if you have any questions about the
-assignment, email Pat at `prondon+230@cs.ucsd.edu`.
-
-**Note** You may have to `cabal install stm` and `cabal install quickcheck`.
-
+ 
 Problem 1: Binary Search Trees Revisited
 ========================================
 
@@ -316,11 +296,14 @@ create balanced trees. That is, they satisfy the properties
 Problem 2: Concurrent FIFO Queue
 ================================
 
+XXX 
 In this question, we'll develop a concurrently-accessible first-in,
-first-out (FIFO) queue with a fixed capacity, called a finite channel.[^channelnote]
+first-out (FI FO) queue with a fixed capacity, called a finite channel.[^channelnote]
 Your finite channel will behave as follows: If a read occurs when the
 queue is empty, the reader should block until an item becomes
-available. Similarly, if a write occurs when the queue is full (i.e.,
+available. 
+XXX 
+Similarly, if a write occurs when the queue is full (i.e.,
 the number of items in the queue is the capacity specified when the
 queue was created), the writer should block until an item is removed
 from the queue.
