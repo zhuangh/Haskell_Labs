@@ -1,3 +1,6 @@
+!!! For your own good, do not read my crappy code when you are taking this courses. 
+
+
 ---
 title: Homework #2, Due Sunday 2/5/13
 ---
