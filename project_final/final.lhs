@@ -1,9 +1,6 @@
 !!! For your own good, do not read my crappy code when you are taking this courses. 
 
-
----
-title: Final, Due Sun 3/24
----
+ 
 
 > {-# LANGUAGE TypeSynonymInstances, FlexibleContexts, OverlappingInstances, FlexibleInstances #-}
 
