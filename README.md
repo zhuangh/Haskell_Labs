@@ -1,4 +1,6 @@
-haskell_projects
+Haskell_projects
 ================
 
-!!! For your own good, do not read my crappy code when you are taking this courses. 
+Hi, dear reader, for your own good, do not read my code when you are taking this courses or using related homework materials. 
+
+Thanks.
